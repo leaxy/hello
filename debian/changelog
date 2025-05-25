@@ -1,3 +1,9 @@
+hello (2.10-3leaxyu) noble; urgency=medium
+
+  * Add testing.sh which will be installed to /usr/bin/. 
+
+ -- Xiaoyu LI <leaxyu@msn.com>  Sun, 25 May 2025 18:08:37 +0800
+
 hello (2.10-3build1) noble; urgency=high
 
   * No change rebuild for 64-bit time_t and frame pointers.
